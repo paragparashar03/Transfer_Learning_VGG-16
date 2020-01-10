@@ -11,7 +11,7 @@ I have changed the last layer of VGG model as we have only 4 categories as compa
 #2. Fine tune the Model
 In this case, I have removed last 3 layers from the  VGG model and added 7 layers ( 4 dense and 3 dropout layers)
 
-# ipynb file for both the cases have been uploaded.
+# Both ipynb files have been uploaded.
 
 #Deep learning models-Keras link:
 https://github.com/fchollet/deep-learning-models 
