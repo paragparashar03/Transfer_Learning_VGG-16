@@ -8,7 +8,7 @@ Transfer learning refers to the technique of using knowledge of one domain to an
 
 I have changed the last layer of VGG model as we have only 4 categories as compared to ImageNet that has 1000 categories.
 
-#2. Fine tune the Model
+#2. Fine tune the Model:
 In this case, I have removed last 3 layers from the  VGG model and added 7 layers ( 4 dense and 3 dropout layers)
 
 # Both ipynb files have been uploaded.
